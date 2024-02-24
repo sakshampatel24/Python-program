@@ -1,0 +1,6 @@
+name = input("What is your name ?")
+age = input("What is your age ?")
+city = input("what is your city ?")
+height = input("What is your height ?")
+print("welcome " +name)
+print("you are ready")
